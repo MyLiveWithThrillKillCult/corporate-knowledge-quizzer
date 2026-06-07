@@ -1,0 +1,7 @@
+Write quiz questions based on the short stories of H.P. Lovecraft. Format the output as a table suitable for Excel. The table must include the following columns:
+Column 1: Question text
+Column 2: Option A
+Column 3: Option B
+Column 4: Option C
+Column 5: Option D
+Column 6: Correct answer
